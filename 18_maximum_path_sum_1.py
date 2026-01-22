@@ -31,3 +31,6 @@ def processRawTree(rawData):
     return rawData[0][0]
 
 
+print(processRawTree(rawTree))
+
+
